@@ -5,4 +5,9 @@
 ## JS facts
 
 > JavaScript is also called ECMAScript ("European Computer Manufacturers Association") , or in short : <b>ES</b>
+
 > JavaScript is the best implementation of ECMAScript <b>standard</b>.
+
+> ES5, the current stable version of JS, was announced on 2009. 
+
+>  
