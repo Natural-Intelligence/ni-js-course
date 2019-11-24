@@ -4,4 +4,4 @@
 
 ## JS facts
 
-> JS is also called ECMA ("European Computer Manufacturers Association") Script, or in short : *ES*
+> JS is an <b>implementation</b> also called ECMAScript ("European Computer Manufacturers Association") , or in short : <b>ES</b>
