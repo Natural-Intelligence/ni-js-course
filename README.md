@@ -16,4 +16,4 @@
 
 ## Why JS is good (and CSS3/HTML5) ?  
 > The internet before Javascript looked like this:
-<div style="width: 400px; height: auto;">![image](./images/ebay-1999.png)</div>
+<div style="width: 400px; height: auto;"><img src="./images/ebay-1999.png" alt=""></div>
