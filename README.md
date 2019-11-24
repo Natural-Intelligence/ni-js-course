@@ -16,6 +16,5 @@
 
 ## Why JS is good (and CSS3/HTML5) ?  
 > The internet before Javascript looked like this:
-![ebay](./images/ebay-1999.png)  
+<img src="./images/ebay-1999.png" alt="ebay 1999" width="400"/>
 
-<img src="./images/ebay-1999.png" alt="Kitten" title="A cute kitten" width="150" height="100" />
