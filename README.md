@@ -10,4 +10,4 @@
 
 > ES5, the current stable version of JS, was announced on 2009. 
 
->  
+> ES6th Edition (=== 'ECMAScript 2015'), brought many new features, including: *class declaration, import/export modules, arrow functions, let/const, promises, maps* and a lot more.    
