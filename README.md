@@ -13,3 +13,7 @@
 > ES6th Edition (=== 'ECMAScript 2015'), brought many new features, including: *class declaration, import/export modules, arrow functions, let/const, promises, maps* and a lot more.
 
 > Every year since, there is a new release of ES. 
+
+## Why JS is good?  
+> The internet before Javascript looked like this:
+![image](./images/ebay-1999.png)
