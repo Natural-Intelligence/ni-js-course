@@ -14,6 +14,6 @@
 
 > Every year since, there is a new release of ES. 
 
-## Why JS is good?  
+## Why JS is good (and CSS3/HTML5) ?  
 > The internet before Javascript looked like this:
-![image](./images/ebay-1999.png)
+<div style="width: 400px; height: auto;">![image](./images/ebay-1999.png)</div>
